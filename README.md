@@ -159,7 +159,7 @@
 
 ### Wakatime 2020
 
-![WAKATIME 2020_PERSONALIZE](assets/wakatime_2020.png?raw=true "Wakatime 2020")
+![WAKATIME 2020_PERSONALIZE](wakatime_2020.png?raw=true "Wakatime 2020")
 
 ---
 
